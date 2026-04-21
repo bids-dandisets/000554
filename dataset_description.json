@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "This dataset contains recordings from PtNRGrids, which are devices designed to record electrocorticography (ECoG) activities from the brain surface at high-spatial resolution. PtNRGrids used here were a square-shaped array with 1024 channels and a 150-\u00b5m pitch, which was implanted to record neural activity from the entire right primary somatosensory barrel cortex. The sensory response on the brain was evoked by delivering air puffs through a microcapillary tube to individually stimulate individual whiskers on the contralateral side. This dataset demonstrates the high-spatial resolution recording capability of PtNRGrids isolate functional cortical columns in sub-mm resolution from the surface of the brain.\n\n[Publication corresponding to this dataset] Tchoe, Youngbin, et al. \"Human brain mapping with multithousand-channel PtNRGrids resolves spatiotemporal dynamics.\" Science translational medicine 14.628 (2022): eabj1441.\n[Electrode mapping information & Basic analysis codes] Github: https://ytchoe.github.io/",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Tchoe, Youngbin"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
